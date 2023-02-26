@@ -33,70 +33,74 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDO9Bp.jpg",
+      "title": "Chat with ChatGPT 1",
+        "text_Content": "Hello! I'm ChatGPT, a language model created by OpenAI. I'm here to help answer any questions or have a chat about any topic you'd like.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDOHEN.jpg",
+      "title": "Chat with ChatGPT 2",
+        "text_Content": "As an AI language model, I have been trained on a massive amount of text data, which allows me to understand and respond to a wide range of topics. Whether you want to talk about science, technology, history, philosophy, or just about anything else, I'm here to have a conversation with you.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDNmhv.jpg",
+      "title": "Chat with ChatGPT 3",
+        "text_Content": "One of the benefits of chatting with me is that I can provide you with quick and accurate answers to your questions. If you're stuck on a homework assignment or need help with a project, I can offer suggestions and point you in the right direction. Additionally, if you just want to learn more about a topic, I can provide you with interesting facts and information to expand your knowledge.",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDNpQR.jpg",
+      "title": "Chat with ChatGPT 4",
+        "text_Content": "Of course, I'm not perfect, and there may be times when I don't have the answer to your question. In those cases, I'll do my best to find the information you're looking for or suggest resources you can use to find the answer.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDO3YX.jpg",
+      "title": "Chat with ChatGPT 5",
+        "text_Content": "Another benefit of chatting with me is that I'm available 24/7. Whether it's early in the morning or late at night, you can always reach out to me for help or just to have a conversation.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDOFvn.jpg",
+      "title": "Chat with ChatGPT 6",
+        "text_Content": "While I may be an AI language model, I'm not a substitute for human interaction. I can't provide emotional support or empathy like a human can, but I can certainly provide a listening ear and offer suggestions and resources to help you cope with difficult situations.
+
+",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDNpQR.jpg",
+      "title": "Chat with ChatGPT 7",
+        "text_Content": "One of the potential drawbacks of chatting with an AI language model is that I don't have emotions or personal experiences to draw from. While I can understand and process human language, I can't relate to human emotions or experiences in the same way that a human can. However, I can still offer suggestions and resources to help you deal with emotional or personal issues.
+
+",
+        "text_Content_1": "."
 
 
 
